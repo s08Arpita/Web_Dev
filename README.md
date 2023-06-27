@@ -1,4 +1,4 @@
-#  TigDog Website
+#  TinDog Website
 
 It’s a simple web page for dogs. It is a Startup landing page for a frictional application named Tindog. 
 
