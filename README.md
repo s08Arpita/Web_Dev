@@ -11,4 +11,4 @@ The website's homepage offers information about the application, including its d
 - CSS
 - Bootstrap
 
-<img alt="Final_Result" src="Capture.png">
+<img alt="Final_Result" src="FInal.png">
